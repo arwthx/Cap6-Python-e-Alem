@@ -1,19 +1,18 @@
 FIAP - Faculdade de Informática e Administração Paulista
-FIAP - Faculdade de Informática e Admnistração Paulista
 
 
-Nome do projeto
-Nome do grupo
-👨‍🎓 Integrantes:
-Nome do integrante 1
-Nome do integrante 2
-Nome do integrante 3
-Nome do integrante 4
-Nome do integrante 5
-👩‍🏫 Professores:
-Tutor(a)
-Nome do Tutor
-Coordenador(a)
-Nome do Coordenador
+Cana Eficiente
+
+Grupo Arthur
+
+Integrantes
+1. Arthur Peixoto
+
+Professores: Sabrina Otoni
+
 📜 Descrição
-Descreva seu projeto com base no texto do PBL (até 600 palavras)
+O Cana-Eficiente é uma solução Agrotech desenvolvida em Python para combater um dos grandes problemas do agronegócio brasileiro: a perda de até 15% da produção de cana-de-açúcar durante a colheita mecanizada.
+
+Através de uma interface de linha de comando simples, o sistema permite que produtores rurais registrem dados de cada colheita. Com base nessas informações, a ferramenta gera relatórios analíticos que identificam os principais focos de desperdício, como máquinas com baixo desempenho ou operadores que precisam de treinamento.
+
+O objetivo é transformar dados brutos em insights práticos, ajudando o produtor a tomar decisões mais eficientes para reduzir perdas e aumentar a lucratividade da safra.
