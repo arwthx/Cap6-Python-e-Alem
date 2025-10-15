@@ -29,8 +29,17 @@ Este projeto, **Cana-Eficiente**, ataca diretamente essa "dor" do agronegócio. 
 
 A inovação do **Cana-Eficiente** não está em criar uma tecnologia disruptiva, mas em **democratizar o acesso à análise de dados** no campo. Diferente de sistemas de gestão (ERPs) complexos e caros, nossa solução oferece uma ferramenta de fácil usabilidade (via prompt de comando) que gera valor imediato. O produtor pode, de forma rápida, transformar dados brutos de colheita em informações estratégicas para a tomada de decisão.
 
+3. Como Executar a Solução
 
-3. Atendimento aos Requisitos Técnicos da Disciplina
+1.  Certifique-se de ter o Python 3 instalado.
+2.  Salve o arquivo `main.py` em uma pasta no seu computador.
+3.  Abra um terminal ou prompt de comando.
+4.  Navegue até a pasta onde você salvou o arquivo.
+5.  Execute o comando: `python main.py`
+6.  O sistema irá iniciar e o menu principal será exibido. O arquivo de dados `colheitas.json` será criado automaticamente no primeiro salvamento.
+
+
+4. Atendimento aos Requisitos Técnicos da Disciplina
 
 A solução foi desenvolvida contemplando todos os conteúdos técnicos exigidos:
 
